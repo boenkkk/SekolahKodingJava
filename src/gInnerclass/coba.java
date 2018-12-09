@@ -14,9 +14,11 @@ class luar{
 		d.hasil();
 	}
 }
+
 public class coba {
 	public static void main(String args[]){
 		luar l = new luar();
 		l.tampil();
+		//System.out.println("K");
 	}
 }

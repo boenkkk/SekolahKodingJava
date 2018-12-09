@@ -9,7 +9,7 @@ public class Orang {
 		
 		String nKerjaan = "Programmer";
 		budi.setKerjaan(nKerjaan);
-		String kerjaanBaru = budi.getKerjaan();
+		String kerjaanBaru = budi.kerjaan;
 		
 		System.out.println("Kerjaan budi sekarang : " +kerjaanBaru);
 		System.out.println("--------------------------------------");
