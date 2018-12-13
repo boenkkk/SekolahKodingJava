@@ -16,7 +16,7 @@ public class bb {
 		
 		String[] nama = new String[]{"Budi","Santoso"};
 		al2.addAll(Arrays.asList(nama));
-		al2.remove("Budi");
+		//al2.remove("Budi");
 		
 		// print cara 1
 		for(String nama1 : al2){
